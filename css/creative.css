@@ -551,3 +551,7 @@ footer .footer-below {
 .maps iframe{
     pointer-events: none;
 }
+.skills li {
+    display: inline;
+
+}
